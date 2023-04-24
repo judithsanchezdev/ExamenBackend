@@ -1,0 +1,17 @@
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Domain\bin\Debug\net6.0\WsApiexamen.Domain.deps.json
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Domain\bin\Debug\net6.0\WsApiexamen.Domain.dll
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Domain\bin\Debug\net6.0\WsApiexamen.Domain.pdb
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Domain\bin\Debug\net6.0\WsApiexamen.Models.dll
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Domain\bin\Debug\net6.0\WsApiexamen.Repository.dll
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Domain\bin\Debug\net6.0\WsApiexamen.Models.pdb
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Domain\bin\Debug\net6.0\WsApiexamen.Repository.pdb
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Domain\obj\Debug\net6.0\WsApiexamen.Domain.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Domain\obj\Debug\net6.0\WsApiexamen.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Domain\obj\Debug\net6.0\WsApiexamen.Domain.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Domain\obj\Debug\net6.0\WsApiexamen.Domain.AssemblyInfo.cs
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Domain\obj\Debug\net6.0\WsApiexamen.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Domain\obj\Debug\net6.0\WsApiexamen.Domain.csproj.CopyComplete
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Domain\obj\Debug\net6.0\WsApiexamen.Domain.dll
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Domain\obj\Debug\net6.0\refint\WsApiexamen.Domain.dll
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Domain\obj\Debug\net6.0\WsApiexamen.Domain.pdb
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Domain\obj\Debug\net6.0\ref\WsApiexamen.Domain.dll

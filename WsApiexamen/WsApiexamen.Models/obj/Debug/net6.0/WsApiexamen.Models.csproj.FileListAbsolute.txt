@@ -1,0 +1,12 @@
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Models\bin\Debug\net6.0\WsApiexamen.Models.deps.json
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Models\bin\Debug\net6.0\WsApiexamen.Models.dll
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Models\bin\Debug\net6.0\WsApiexamen.Models.pdb
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Models\obj\Debug\net6.0\WsApiexamen.Models.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Models\obj\Debug\net6.0\WsApiexamen.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Models\obj\Debug\net6.0\WsApiexamen.Models.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Models\obj\Debug\net6.0\WsApiexamen.Models.AssemblyInfo.cs
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Models\obj\Debug\net6.0\WsApiexamen.Models.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Models\obj\Debug\net6.0\WsApiexamen.Models.dll
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Models\obj\Debug\net6.0\refint\WsApiexamen.Models.dll
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Models\obj\Debug\net6.0\WsApiexamen.Models.pdb
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Models\obj\Debug\net6.0\ref\WsApiexamen.Models.dll

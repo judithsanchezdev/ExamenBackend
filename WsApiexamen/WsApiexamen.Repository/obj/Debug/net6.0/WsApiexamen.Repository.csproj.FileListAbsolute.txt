@@ -1,0 +1,17 @@
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Repository\bin\Debug\net6.0\WsApiexamen.Repository.deps.json
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Repository\bin\Debug\net6.0\WsApiexamen.Repository.runtimeconfig.json
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Repository\bin\Debug\net6.0\WsApiexamen.Repository.dll
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Repository\bin\Debug\net6.0\WsApiexamen.Repository.pdb
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Repository\bin\Debug\net6.0\WsApiexamen.Models.dll
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Repository\bin\Debug\net6.0\WsApiexamen.Models.pdb
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Repository\obj\Debug\net6.0\WsApiexamen.Repository.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Repository\obj\Debug\net6.0\WsApiexamen.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Repository\obj\Debug\net6.0\WsApiexamen.Repository.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Repository\obj\Debug\net6.0\WsApiexamen.Repository.AssemblyInfo.cs
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Repository\obj\Debug\net6.0\WsApiexamen.Repository.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Repository\obj\Debug\net6.0\WsApiexamen.Repository.csproj.CopyComplete
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Repository\obj\Debug\net6.0\WsApiexamen.Repository.dll
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Repository\obj\Debug\net6.0\refint\WsApiexamen.Repository.dll
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Repository\obj\Debug\net6.0\WsApiexamen.Repository.pdb
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Repository\obj\Debug\net6.0\WsApiexamen.Repository.genruntimeconfig.cache
+C:\Users\dev\source\repos\WsApiexamen\WsApiexamen.Repository\obj\Debug\net6.0\ref\WsApiexamen.Repository.dll
